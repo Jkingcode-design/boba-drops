@@ -1,0 +1,13 @@
+.boba {
+  width: auto;
+  height: 400px;
+  transform: translateX(500px)
+}
+.name {
+  font-size: 50px;
+  transform: translateX(550px)
+}
+.body {
+  background-color: antiquewhite;
+}
+
